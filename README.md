@@ -8,11 +8,12 @@
 - Styled components
 
 ## Web
-![web-1]()
-![web-2]()
-![web-3]()
+![web-1](https://github.com/alexsanderkafka/test-techpines-front/blob/main/assets/web-1.png)
+![web-2](https://github.com/alexsanderkafka/test-techpines-front/blob/main/assets/web-2.gif)
+![web-3](https://github.com/alexsanderkafka/test-techpines-front/blob/main/assets/web-3.gif)
 
-##
+## Mobile
+![mobile-1](https://github.com/alexsanderkafka/test-techpines-front/blob/main/assets/mobile-1.gif)
 
 # Pré-requisitos
 - Node
